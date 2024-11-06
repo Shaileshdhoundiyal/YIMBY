@@ -1,0 +1,6 @@
+{
+    "secretKey": "",
+    "expiration": "2 days",
+    "expirationForAdmin": "1 days",
+    "tempTokenExpiration": "15mins"
+  }
